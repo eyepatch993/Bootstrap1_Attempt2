@@ -1,0 +1,68 @@
+.no_padding{padding: 0;}
+.header{
+    min-height: 100px;
+    
+    
+}
+.brand{
+    min-height: 70px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin-top: 30px;
+}
+.global{
+    min-height: 70px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 30px;
+}
+.tools{
+    min-height: 70px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 30px;
+}
+.herosection{
+ min-height: 130px;margin-top: 30px;
+   
+}
+.feat{
+     min-height: 100px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 30px;
+}
+.action{
+     min-height: 100px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 30px;
+}
+.ad{
+    min-height: 130px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 30px;
+}
+.body{
+     min-height: 430px;
+    
+}
+.A_feat{
+     min-height: 400px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 30px;
+}
+.listen{
+    
+     min-height: 400px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 30px;
+}
+.sidebar{
+    
+     min-height: 400px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 30px;
+}
+.footer{
+      
+     min-height: 100px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 30px;
+}

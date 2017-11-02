@@ -1,0 +1,94 @@
+@media (max-width: 767px) 
+{
+    .header{
+    min-height: 33px;
+    
+}
+    .brand{
+    min-height: 30px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin-top: 3px;
+}
+.global{
+    min-height: 30px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 3px;
+}
+.tools{
+    min-height: 30px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 3px;
+    }
+    .herosection{
+ min-height: 43px;margin-top: 10px;
+   
+}
+    .action{
+     min-height: 40px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 3px;
+}
+    .body{margin-top: 3px;
+     min-height: 370px;
+    
+}
+    
+    .A_feat{
+     min-height: 90px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 3px;
+}
+    .ad{
+    min-height: 80px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 3px;
+}
+    .listen{
+    
+     min-height: 200px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 3px;
+}
+}
+
+
+@media (min-width: 768px) and (max-width: 991px){
+        .action{
+     min-height: 40px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 3px;
+}
+    .feat{
+ min-height: 40px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 3px;
+}
+     .ad{
+    min-height: 120px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 3px;
+}
+    .A_feat{
+     min-height: 120px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 3px;
+}
+    .sidebar{
+    
+     min-height: 100px;
+    border: 1px solid black;
+    box-sizing: border-box;margin-top: 3px;
+}
+    
+}
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+
+
+@media (min-width: 1200px) {}
+
+
